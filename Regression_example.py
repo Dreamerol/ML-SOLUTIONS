@@ -72,6 +72,7 @@ X_poly_two_params = poly.fit_transform(X2)
 lin.fit(X_poly_two_params, z)
 print(lin.coef_, lin.intercept_)
 
+#-------------------------------------------------------------------------------------------------------------
 #Logistic Regression - separating into classes - but we need  evenly distributed data
 #predicting a chance a student passes 1 based on the studying hours 
 X = np.array([[1], [2], [3], [4], [5], [6]])
