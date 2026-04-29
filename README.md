@@ -1,4 +1,4 @@
-<h2 align="center"> 💻 ML-SOLUTIONS</h2>
+<h2 align="center"> 💻 𝗠𝗟 𝗦𝗢𝗟𝗨𝗧𝗜𝗢𝗡𝗦</h2>
 
 ---
 
