@@ -1,6 +1,8 @@
 <h1 align="center"> 💻 𝗠𝗟 𝗦𝗢𝗟𝗨𝗧𝗜𝗢𝗡𝗦</h1>
 
----
+
+
+<br>
 
 
 ![BOOKS](https://raw.githubusercontent.com/Dreamerol/Dreamerol/992fd2d040b50ce71e58d732090cd255ec3f2270/COMP22.jpg)
@@ -12,9 +14,6 @@
 
 
 
-
-
----
 
 
 
